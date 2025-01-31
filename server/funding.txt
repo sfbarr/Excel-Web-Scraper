@@ -1,0 +1,1322 @@
+[
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=517582": 6084261
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=517582": 7364714
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=517582": 7362068
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=517582": 5502638
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=517582": 4142291
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=517582": 186079
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=517582": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=517582": 293809
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=437121": 149358
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=370668": 72952
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=619089": 334100
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=619089": 246000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=619089": 240495
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=619089": 48000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=619089": 216875
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=770525": 41250
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=770525": 215000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=416517": 230331
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=416517": 79665
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=434724": 199111
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=434724": 151430
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=457249": 229349
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=457249": 117262
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=457249": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=601409": 215591
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=601409": 165000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=601409": 156800
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=601409": 49450
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=601409": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=601409": 165000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=545071": 112500
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=545071": 150000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=545071": 165000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=545071": 165000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=545071": 41250
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=566695": 181820
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=566695": 264122
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=566695": 165000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=566695": 156800
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=566695": 49450
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=605778": 350672
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=605778": 250398
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=605778": 269524
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=605778": 360778
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=565420": 112500
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=565420": 181000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=565420": 165000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=565420": 87154
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=565420": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=565420": 119096
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=619820": 151040
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=619820": 164800
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=619820": 156600
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=619820": 49400
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=769828": 165000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=583372": 136996
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=583372": 150199
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=583372": 150499
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=583372": 145524
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=583372": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=583372": 46925
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=580074": 212749
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=580074": 411654
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=580074": 445390
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=580074": 354118
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=580074": 103420
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=580074": 289991
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=658019": 199570
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=658019": 257005
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=658019": 281535
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=658019": 21889
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=658019": 271045
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=674135": 301220
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=674135": 268423
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=674135": 276623
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=674135": 264648
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=708628": 250000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=708628": 130000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=708628": 300000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=721531": 160034
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=721531": 156041
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=721531": 166221
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=739976": 268448
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=739976": 350115
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=753219": 194883
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=753219": 164844
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=771443": 115000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=459459": 149990
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=459459": 75490
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=402152": 65800
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=402152": 1699
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=596173": 133546
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=596173": 250067
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=596173": 282687
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=596173": 49282
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=596173": 263019
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=650080": 175159
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=650080": 245808
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=650080": 64071
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=650080": 236342
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=766037": 118116
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=766037": 359567
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=794274": 21123
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=426785": 256848
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=404328": 174111
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=404328": 175249
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=404328": 43903
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=426547": 272805
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=426547": 143327
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=426547": 42000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=426547": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=467840": 269727
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=467840": 275000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=467840": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=403971": 227267
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=447593": 99538
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=428366": 266251
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=428366": 202501
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=428366": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=428366": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=446726": 242589
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=446726": 142622
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=466514": 275000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=466514": 275001
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=466514": 160416
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=466514": 45050
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=466514": 45050
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=466514": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=467228": 254215
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=467228": 254215
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=480692": 26432
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=480692": 253334
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=480692": 134166
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=497233": 274701
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=497233": 274674
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=497233": 275259
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=497233": 137852
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=497233": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=497930": 263313
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=497930": 257191
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=497930": 261867
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=497930": 154525
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=497930": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=553503": 116448
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=553503": 276250
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=553503": 276791
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=553503": 235165
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=553503": 196159
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=553503": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=553503": 270000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=554455": 89493
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=554455": 269263
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=554455": 270950
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=554455": 271664
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=554455": 181732
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=554455": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=554455": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=538509": 208932
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=538509": 303900
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=538509": 275110
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=538509": 80075
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=538509": 5079
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=553248": 229167
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=553248": 275000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=553248": 275000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=553248": 275000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=553248": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=701097": 150000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=701097": 141430
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=701097": 300000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=701097": 300000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=572237": 270216
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=572237": 272815
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=572237": 275465
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=572237": 208611
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=539019": 268379
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=539019": 294379
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=539019": 267379
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=539019": 211562
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=539019": 150495
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=571693": 285200
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=571693": 280093
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=571693": 286282
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=571693": 266850
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=554931": 155250
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=554931": 317340
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=554931": 324383
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=554931": 331643
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=554931": 155250
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=554931": 31380
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=554931": 31380
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=593453": 68750
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=593453": 275001
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=593453": 274999
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=593453": 115451
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=593453": 139549
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=593453": 20000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=593453": 206250
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=593351": 118425
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=593351": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=593351": 259981
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=593351": 118503
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=593351": 141478
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=593351": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=593351": 195568
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=627997": 161222
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=627997": 280310
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=627997": 283658
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=627997": 195837
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=627997": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=627997": 212613
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=628490": 75692
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=628490": 190299
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=628490": 205360
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=628490": 248383
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=628490": 146229
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=628490": 225026
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=592059": 79245
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=592059": 290571
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=592059": 274801
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=592059": 274354
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=592059": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=592059": 205927
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=593300": 54309
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=593300": 390760
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=593300": 218080
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=593300": 218109
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=593300": 126477
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=645354": 183361
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=645354": 249238
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=645354": 334666
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=645354": 90456
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=645354": 252597
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=626637": 91237
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=626637": 182474
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=626637": 223349
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=626637": 2112
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=626637": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=626637": 264224
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=628303": 118280
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=628303": 237989
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=628303": 55166
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=628303": 68053
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=628303": 203213
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=628303": 281904
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=611728": 256272
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=611728": 267183
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=611728": 270781
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=611728": 22740
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=611728": 274558
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=643382": 284940
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=643382": 292743
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=643382": 404403
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=643382": 405616
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=644096": 143840
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=644096": 197383
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=644096": 62606
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=644096": 259880
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=664241": 326157
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=664241": 252745
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=664241": 321940
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=664241": 219042
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=664241": 309005
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=680187": 117518
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=680187": 234457
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=680187": 238858
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=680187": 236494
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=664955": 83279
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=664955": 273622
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=664955": 286267
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=664955": 488096
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=714357": 328967
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=714357": 298164
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=714357": 485312
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=715683": 267789
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=715683": 197210
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=715683": 262087
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=713796": 330760
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=713796": 319348
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=713796": 168921
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=745858": 273322
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=745858": 296292
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=810033": 55033
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=746538": 143833
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=746538": 337005
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=791571": 246613
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=790959": 154523
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=791265": 149922
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=718267": 45072
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=718267": 41162
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=718267": 116267
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=484942": 66631
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=469404": 57300
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=469438": 8333
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=483854": 83292
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=484857": 57063
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=470322": 8246
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=483922": 74166
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=541603": 100000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=541603": 100000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=541603": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=518245": 99999
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=518245": 75000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=518245": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=576147": 75000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=576147": 172943
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=576147": 151782
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=576147": 49977
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=576147": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=576147": 42265
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=617032": 88672
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=617032": 98279
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=617032": 58373
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=617032": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=617032": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=682312": 199457
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=682312": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=682312": 257928
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=669239": 97000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=669239": 100000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=669239": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=669239": 75000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=682346": 83301
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=682346": 16633
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=682346": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=682346": 99829
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=703426": 112729
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=703426": 114970
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=682550": 56222
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=682550": 5231
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=682550": 137139
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=719712": 118684
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=719712": 104277
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=719712": 6682
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=735556": 112634
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=735556": 84475
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=735556": 28159
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=703409": 32578
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=703409": 80629
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=703409": 160253
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=735403": 122589
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=735403": 37614
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=735403": 69614
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=736270": 115200
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=736270": 87058
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=736270": 27742
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=751638": 109879
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=751638": 119928
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=736015": 117567
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=736015": 56243
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=736015": 45933
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=752454": 56500
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=752454": 117000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=766207": 57108
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=766207": 116049
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=767074": 17128
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=767074": 121441
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=781405": 89253
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=796076": 57618
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=781932": 84038
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=424439": 843331
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=483786": 1500000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=483786": 2736342
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=483786": 2549448
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=483786": 2227845
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=483786": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=662609": 1951500
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=662609": 2099563
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=662609": 1681626
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=497046": 900000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=497046": 1681408
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=497046": 1873620
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=497046": 1631086
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=497046": 944175
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=497046": 1306201
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=513298": 102022
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=513298": 44506
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=555985": 46656
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=555985": 81509
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=555985": 34417
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=612340": 76478
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=612340": 132627
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=612340": 35278
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=715887": 188476
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=715887": 29681
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=715887": 186588
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=731374": 130069
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=731374": 66686
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=731374": 60946
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=731340": 171043
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=731340": 173311
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=731340": 83203
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=747711": 200807
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=747711": 164751
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=762603": 50062
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=762603": 81302
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=778464": 342801
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=792812": 97298
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=674985": 22000
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=674985": 203250
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=674985": 188658
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=674985": 199734
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=674985": 181794
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=392445": 280916
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=392445": 166779
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=579887": 173306
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=579887": 245467
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=579887": 248958
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=579887": 251763
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=579887": 18906
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=579887": 219084
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=368815": 39131
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=448188": 177471
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=448188": 181756
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=448188": 44483
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=556529": 211934
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2018.cfm?pid=556529": 227880
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=556529": 289331
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=556529": 305987
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=556529": 250464
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=556529": 217228
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=612459": 165151
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=612459": 202266
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=612459": 206797
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=612459": 184792
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=612459": 0
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=612459": 203974
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=663272": 103572
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=663272": 142984
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=663272": 176852
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=663272": 250567
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=663272": 227749
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=748374": 111925
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2024.cfm?pid=748374": 204933
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2017.cfm?pid=36482": 213492
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2019.cfm?pid=652987": 55696
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2020.cfm?pid=652987": 102359
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2021.cfm?pid=652987": 124415
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2023.cfm?pid=652987": 93551
+  },
+  {
+    "https://www.research.va.gov/about/funded_research/proj-details-FY2022.cfm?pid=652987": 111122
+  }
+]
